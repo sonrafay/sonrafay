@@ -1,6 +1,14 @@
-[![MasterHead](C:\Users\danis\Downloads\resized_animated.gif)]()
+[![MasterHead](animatedgif.gif)]()
 <h1 align="center">Hi 👋, I'm Rafay Danish</h1>
 <h3 align="center">A passionate machine learning engineer with a business focused mindset</h3>
+
+- I’m currently working on [Dryft](https://twitter.com/DryftAI)
+
+- I’m looking to collaborate on **more AI startups**
+
+- Ask me about **anything**
+
+- How to reach me **d.rafay786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
