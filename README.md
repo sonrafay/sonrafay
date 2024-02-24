@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Rafay Danish</h1>
 <h3 align="center">A passionate machine learning engineer with a business focused mindset</h3>
 
-- I’m currently working on [Dryft](https://twitter.com/DryftAI)
+- I’m currently working on project [Dryft](https://twitter.com/DryftAI)
 
-- I’m looking to collaborate on **more AI startups**
+- I am trying to learn more about AI and would love to collobarate on some more AI startups
 
-- Ask me about **anything**
-
-- How to reach me **d.rafay786@gmail.com**
+- If you are intrested in working together or just want to ask any questions. You can reach me on my socials, or email me at d.rafay786@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
