@@ -1,4 +1,4 @@
-[![MasterHead](bannergit.gif)]()
+[![MasterHead](animatedgif.gif)]()
 <h1 align="center">Hi 👋, I'm Rafay Danish</h1>
 <h3 align="center">A passionate machine learning engineer with a business focused mindset</h3>
 
